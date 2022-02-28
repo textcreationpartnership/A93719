@@ -1,0 +1,1443 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules of civil goverment [sic], drawn from the best examples of forreign nations, and Common-wealths-briefely discovering the excellency and benefit of good governors, and the dangerous consequence of corrupt self-seekers. In a short dialogue between a country man and a scholer. / Written by Robert Sprye, lawyer. Humbly presented to his Excellency the Lord Generall as a word in season.</title>
+            <title>Rules of civil government</title>
+            <author>Spry, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93719</idno>
+            <idno type="STC">Wing S5089</idno>
+            <idno type="STC">Thomason E1484_3</idno>
+            <idno type="STC">ESTC R208760</idno>
+            <idno type="EEBO-CITATION">99867682</idno>
+            <idno type="PROQUEST">99867682</idno>
+            <idno type="VID">170020</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93719)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170020)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 190:E1484[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules of civil goverment [sic], drawn from the best examples of forreign nations, and Common-wealths-briefely discovering the excellency and benefit of good governors, and the dangerous consequence of corrupt self-seekers. In a short dialogue between a country man and a scholer. / Written by Robert Sprye, lawyer. Humbly presented to his Excellency the Lord Generall as a word in season.</title>
+                  <title>Rules of civil government</title>
+                  <author>Spry, Robert.</author>
+               </titleStmt>
+               <extent>[2], 55, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Hancock in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 5.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political science --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170020:1" rendition="simple:additions"/>
+            <p>RULES Of Civil Goverment, Drawn from the beſt Exam<g ref="char:EOLhyphen"/>ples of Forreign Nations, and Common-wealths-</p>
+            <p>Briefely diſcovering the excellency and benefit of good Governors, and the dangerous conſequence of corrupt Self-ſeekers.</p>
+            <p>In a ſhort Dialogue between a Country man and a Scholer.</p>
+            <p>Written by <hi>Robert Sprye,</hi> Lawyer.</p>
+            <p>Humbly preſented to his Excel<g ref="char:EOLhyphen"/>lency the Lord Generall as a word in ſeaſon.</p>
+            <q>
+               <bibl>Exod. 18. 22.</bibl>
+               <p>
+                  <hi>Morover thou ſhalt provide out of all the people, able men, ſuch as feare God, men of truth, hating covetouſneſſe, and place ſuch over them, &amp;c.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>John Hancock</hi> in <hi>Popeſ<g ref="char:EOLhyphen"/>head-Alley,</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:170020:2"/>
+            <pb facs="tcp:170020:2"/>
+            <head>State-Policy.</head>
+            <sp>
+               <speaker>C.</speaker>
+               <p>SIR,</p>
+               <p>I Have of late heard much of a Common-wealth, but know not what it meaneth: I preſume your late comming from <hi>Oxford,</hi> can ſomewhat informe me what it i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and its my earneſt deſire to know?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>A Common-wealth is a multitude of Men, ruled by one government.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Our Auntient acquaintance en<g ref="char:EOLhyphen"/>couraged me to demand this queſtion of you, and I now perceive by your ſhort Anſwer, which is ſo knotty and difficult to my underſtanding, that you have a de<g ref="char:EOLhyphen"/>ſire to renew our old familiarity, by more queſtions from me; I ſhall the re<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re deſire, if your leaſure will permmit, to
+<pb n="2" facs="tcp:170020:3"/> unfold to me in our country Language, what this word Government is? a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d not anſwer me by Scholaſticall reſoluti<g ref="char:EOLhyphen"/>ons, which make me farther of from be<g ref="char:EOLhyphen"/>ing informed, then when I firſt deman<g ref="char:EOLhyphen"/>ded the queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>My friend and Country man, by your laſt queſtion, I am ſenſible, you either go about to inquire of my proficiency at the Vniverſity; or elſe do propound the queſti<g ref="char:EOLhyphen"/>on throughly to be informed; friend, inre<g ref="char:EOLhyphen"/>gard of your former love to me, I will make bold to borrow ſo much time, if your pati<g ref="char:EOLhyphen"/>ence will give audience throughly to in<g ref="char:EOLhyphen"/>ſtruct you in this matter, by a more larger unfolding the particulars of this your Que<g ref="char:EOLhyphen"/>re, that ſo I may not put you to unneceſſa<g ref="char:EOLhyphen"/>ry Questions.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Sir I am greatly beholding to you that you have not forgotten your old friend, but are willing to have diſcourſe with him, I pray proceed to the Anſwer, and I ſhall attentively give eare.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Government is a ſetled order of Com<g ref="char:EOLhyphen"/>manding and obeying; Order is maintained by three things,</hi> viz. <hi>Religion, Lawes, and Magiſtrates: the definition of Religion, I preſume you know, but becauſe of my pro<g ref="char:EOLhyphen"/>miſe
+<pb n="3" facs="tcp:170020:3"/> to you; and to avoin multitude of que<g ref="char:EOLhyphen"/>ſtions, I will deſcribe it what it is.</hi>
+               </p>
+               <p>
+                  <hi>Religion is that worſhip of God publicke<g ref="char:EOLhyphen"/>ly profeſſed and practiſed, and is maintai<g ref="char:EOLhyphen"/>ned by Lawes and Magiſtrates.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Do all Nations agree that there is a God?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Yea; all Nations agree in thoſe three Propoſitions.</hi>
+               </p>
+               <p n="1">1 That there is a God:</p>
+               <p n="2">2 That God is the puniſher of offen<g ref="char:EOLhyphen"/>ces and rewarder of vertues.</p>
+               <p n="3">3 That whatſoever is a God ought to be worſhiped.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Is there not a difference amongſt Nations concerning God?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>The difference of Nations, conſiſteth in theſe two points.</hi>
+               </p>
+               <p n="1">1 In their opinion, what is God, Chriſtians, Jews and Turks, do all hould there is but one God.</p>
+               <p>The Heathens in times paſt, and now many of the Americans: as alſo the people far Northward do hould that there are many gods and worſhip them accordingly.</p>
+               <p n="2">2 The ſecond difference amongſt Nati<g ref="char:EOLhyphen"/>ons is, In the manner of worſhip<g ref="char:EOLhyphen"/>ping
+<pb n="4" facs="tcp:170020:4"/> of God, and ſo the Chriſtian Jewes, and Turks, do mainly differ.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>VVhat is the Center of a Common<g ref="char:EOLhyphen"/>wealth?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>The Center of a Commonwealth, where the hearts of all men in the ſame State doe meet, is Religion. The force of Lawes is ſhewne only upon occaſions. The better ſort of the people will be ſure to obſerve them.</hi> Lex non eſt juſto poſita. <hi>The Law is made for the offendor: as for offendors, Law can lay hold no farther then prooffes may be made of offences:</hi> Scelera ta<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tum Proba<g ref="char:EOLhyphen"/>ta lege puniuntur <hi>Religion holdeth a per<g ref="char:EOLhyphen"/>petuall strength, and aweth the couſcience, reſtraining</hi> facta, dicta, cogitata, <hi>by the power of the which,</hi> Nemo nocens, ſe judi<g ref="char:EOLhyphen"/>ce, abſolvitur.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>VVhat is the chiefe diſturbance in a Common wealth?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Nothing ſooner divideth a State, then diſtraction in Religion, as may appeare in old ſtories, by the diſtraction, as the Egip<g ref="char:EOLhyphen"/>tians who worſhiped ſeverall Gods in their Countries, and of latter times, by the ſtrange Tumults in</hi> Germany, <hi>the Civill Warres in</hi> France, <hi>and the ſad condition of</hi> England Scotland, <hi>and</hi> Ireland, <hi>at this time.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="5" facs="tcp:170020:4"/> C.</speaker>
+               <p>VVhat then is the beſt way to main<g ref="char:EOLhyphen"/>taine Amity in a State?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>The greateſt band of unity in a State, is unity and conformaty in Religion, neither can any State ſafely ſuffer divers Religions to be publickly maintained, or men of diffe<g ref="char:EOLhyphen"/>rent Religion, from that which is maintai<g ref="char:EOLhyphen"/>ned, to have any power to work a change.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Shew me by what Divine power, Magiſtrates can enforce contentious men to conformity, in the publick exerciſe of Religion?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>You now put me to it indeed; but I will not now take it upon me to reſolve you in ſuch a point; our only diſcourſe now is, what the greateſt Polititians hold for the ſupportation of a Weale-publick or State.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I may not then pin my faith, on what you relate, but I am to take it as the writing of ancient States-men, who labor to uphold that Government, they have ſet up, or have lived under, I pray then go on, and ſhew me what Nations have been moſt ſtrict in enforcing men to out<g ref="char:EOLhyphen"/>ward conformity?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>The Spaniard is the moſt obſervant of this, of all Nations, maintaining an In<g ref="char:EOLhyphen"/>quiſition, not only to cenſure</hi> dicta <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>facta,
+<pb n="6" facs="tcp:170020:5"/> 
+                  <hi>of any that ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>em to differ from them, but to ſearch the very thoughts of men, whom by any means they ſuſpect different.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Are the Turks ſo ſevere, to thoſe that live with in their Territories?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Noe, The Turks howſoever they in<g ref="char:EOLhyphen"/>quire into no man, meerly for Religion, if he do not ſcandalize theirs; yet they ſuffer neither Chriſtians, nor Iews, nor any oppo<g ref="char:EOLhyphen"/>ſite to their Religion, to have either Armor or Authority.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Did the Ancient Romans make VVarre for Religion?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>The old Romans in their manifold Conqueſts, never pretended occaſion of quarrell, by difference of Religion: but ei<g ref="char:EOLhyphen"/>ther revenge of wrong offered to their Citi<g ref="char:EOLhyphen"/>zens, or to their State, or elſe the releeving of their Confederates oppreſſed, or main<g ref="char:EOLhyphen"/>taining of their weak Neighbours.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Did the Romans regard the Religi<g ref="char:EOLhyphen"/>on of their Enemies?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>The Religion of their Enemies, they had of it reverend eſteem; howſoever they ſtrictly obſerved</hi> Patrios Ritus, <hi>yet they often brought home</hi> Peregrinos Deos, <hi>and in the beſieging of Cities, they had many Ce<g ref="char:EOLhyphen"/>remonies and expiations,</hi> ad evocandum
+<pb n="7" facs="tcp:170020:5"/> TVTELARES LOCI DEOS, <hi>to ſhew they fought not againſt their Gods, but deſired they wold not ſuccour their people &amp; ſo ſhould be reverenced in the Roman Territory.</hi>
+               </p>
+               <p>
+                  <hi>After the Roman Empire was growne to the height and could not ſuſtain their own greatnes, &amp; the civil weeds ſprang, all thoſe Rites were omitted or forgotten. Ambition openly profeſſed that it fought pro imperio neither was there any cauſe pretended between the concurrences, but the getting of the Empire. On thoſe terms the world paſſed until Mahomet deviſed a new and ſtrange Religion in the Eaſt parts, which ſet the world in a mighty difference, laying two grounds to encou<g ref="char:EOLhyphen"/>rage his followers, the firſt that whoſoc<g ref="char:EOLhyphen"/>ever dyed in War againſt the Chriſtians or other Enemies to the Mahometan law, did inſtantly paſſe to all pleaſure and de<g ref="char:EOLhyphen"/>light in Paradiſe. The ſecond that death was ſo neceſſarily ordained to men, that no violence would end a man before his time, nor wearines avoid it at the time. Of this Mahomet the Saracens firſt and af<g ref="char:EOLhyphen"/>ter them the Turks, a mighty people, bor<g ref="char:EOLhyphen"/>rowed their Religion. Of him their Ha<g ref="char:EOLhyphen"/>man
+<pb n="8" facs="tcp:170020:6"/> family learned to cover the fire of Am<g ref="char:EOLunhyphen"/>bition, with the Aſhes of Religion, &amp; under pretence to propogate it, to perſwade their followers both to fight an d to dye reſolutly?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I partly beleeve that the Pope and his Predeceſſors have hither to walked by the Mahometan rule you laſt diſcourſed of.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>The Papacy, in the generall, have very much followed this courſe or Rule, as you call it; concealing all their privat revenges and ambitious deſires, under the pretence of the Catholick cauſe: And that with that confident perſwaſion and credulity of their fellowes, that many of the Papiſticall Soul<g ref="char:EOLhyphen"/>diers, if he hath a croſſe on his back, and the Papisticall benediction over his head, think that either they are not of danger in earth, or if they dye, they have a preſent paſſage to Heaven, at leaſt ſhall paſſe through Purga<g ref="char:EOLhyphen"/>tory, and ſo eſcape Hell.</hi>
+               </p>
+               <p>
+                  <hi>In this point there is great difference be<g ref="char:EOLhyphen"/>twixt the preſent and ancient Romans, that the old Romans had a reverend opinion of the Religion of all Countries, though diffe<g ref="char:EOLhyphen"/>rent from them, and would never ſuffer a<g ref="char:EOLhyphen"/>ny deſpight or wrong to be ſhewed to the Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quered under that name of Religion, which is not in particular mens power to
+<pb n="9" facs="tcp:170020:6"/> take or leave as they liſt.</hi>
+               </p>
+               <p>
+                  <hi>The preſent Papiſts make their decrees, the Rules of all truth in Religion, and thoſe that are different, they curſe, and miſchiefe by all means they can i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vent, accounting, them Atheiſts, Miſer eants, and Hereticks &amp;c. which violent proceeding hath enforced the like vehemency in the oppoſites to iudge of him and his, in like ſort, which hath been the ſole cauſe of the great diſtraction in Chriſtendome, and laid it ſo open to the Mahometans.</hi>
+               </p>
+               <p>
+                  <hi>There is no miſchiefe that works ſo dan<g ref="char:EOLhyphen"/>gerouſly as that which is carried with a Colour of Religion.</hi> Simulata ſanctitas duplex iniquitas. <hi>For that nothing can carry a multitude ſo forcibly, as blind zeal and ſuperſtition in any cauſe underta<g ref="char:EOLhyphen"/>ken. In times past,</hi> Sortorius <hi>a Roman, raz<g ref="char:EOLhyphen"/>ſed</hi> Portugall, <hi>&amp; the better part of</hi> Spaine, <hi>defeated the Roman Armies, working credit with his followers by pretending conference with</hi> Diana, <hi>by means of a white <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>art.</hi> Ma<g ref="char:EOLhyphen"/>homet <hi>by his Dove and Bull of late times, the Seriffo in</hi> Africa <hi>under a pretended Ho<g ref="char:EOLhyphen"/>lineſſe, gate firſt his ſtrength, by which he turned the lawfull Prince out of the State, and ſetled himſelfe and his.</hi> John of Ley<g ref="char:EOLhyphen"/>den
+<pb n="10" facs="tcp:170020:7"/> 
+                  <hi>at one time, and</hi> Muncerus <hi>at another time, raiſed thoſe great Tumults in</hi> Ger<g ref="char:EOLhyphen"/>many.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Sir, in your deſcription of Go<g ref="char:EOLhyphen"/>vernment, I remember you told me that order was maintained or ſupported by thoſe three things, Religion, Law, and M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>giſtrates, you have given me ample ſatisfaction concerning Religion. I de<g ref="char:EOLhyphen"/>ſire you would now diſcover to me what Law is?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Lawes are certaine Rules written, or cuſtoms continued, by which the light of perſons, actions, or things are determined.</hi>
+               </p>
+               <p>
+                  <list>
+                     <head>Ius triplex est.</head>
+                     <label>1 <hi>Ius naturae,</hi>
+                     </label>
+                     <item>Is the light of nature, by which we know what is wrong, be<g ref="char:EOLhyphen"/>ing offered unto us, and that the ſame <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s wrong, being committed by our ſelves againſt others.</item>
+                     <label>2 <hi>Ius Gentium,</hi>
+                     </label>
+                     <item>T<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e Law obſerved by all Nations, how difference ſo ever, and is the rule d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iding right betweene men of ſundry Common-wealths; and it ſpe<g ref="char:EOLhyphen"/>cially concerns Leagues, Contracts, Captives &amp;c.</item>
+                     <label>3 <hi>Ius Civile,</hi>
+                     </label>
+                     <item>Is that by which the
+<pb n="11" facs="tcp:170020:7"/> Citizens of every ſtate are ruled, and it is of two ſorts.
+<list>
+                           <label>1 <hi>Ius Commune,</hi> Or <hi>Ius Iuſticiae,</hi>
+                           </label>
+                           <item> the Common Law which is contey<g ref="char:EOLhyphen"/>ned in the letter of the Law, or in the Cuſtomes of the Coun<g ref="char:EOLhyphen"/>try, and this in particular caſes may ſometimes be the cauſe of wrong, as is often ſpoken, <hi>Sum<g ref="char:EOLhyphen"/>ma Ius, ſumma Injuria.</hi>
+                           </item>
+                           <label>2 <hi>Ius Equitatis,</hi>
+                           </label>
+                           <item>The Law of E<g ref="char:EOLhyphen"/>quity, when a particular caſe by reaſon of ſome circumſtance, de<g ref="char:EOLhyphen"/>ſireth help and eaſe againſt the rigor of the Law; ſuch was <hi>Ius Pretorium</hi> amongſt the Romans, and the Court of Chancery with us in <hi>England.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>In the Caſe where the ſtranger ſaved the City by mounting on the Walls, and encouraged the Citizens to keepe the Towne againſt the Enemy, contrary to the Law, <hi>Peregrinus in mures ſi aſcenderit Capitale eſto:</hi> the action in it ſelfe moſt honourable, it by the letter of the Law, Capitall.</p>
+               <p>Beſides all theſe there is <hi>Ius Prerogative,</hi> which reſteth wholly in them, be they
+<pb n="12" facs="tcp:170020:8"/> one or more, in whom the Supreame power and Authority reſteth. Such have Princes in abſolute Monarchies, and ſuch a Power had the people of <hi>Rome,</hi> wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the State was Popular, to receive appeals from any of their Judges, to call matters determined by Law to a new audience, to ſuſpend the execution of any ſentence, or to pardon the puniſhment: Such alſo hath been the accuſtomed power of the Parliaments of <hi>England.</hi>
+               </p>
+               <p>The Law is neceſſary for every State, for that <hi>Leges fiunt propter homines; homi<g ref="char:EOLhyphen"/>nes non fiunt propter Leges.</hi> Men are not made to ſatisfie the Law in its rigor, but Lawes are made for the ſafety and preſer<g ref="char:EOLhyphen"/>vation of men. <hi>Salus Populi ſuprema Lex.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Doe all Nations agree in their Lawes?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Noe.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>How then are their Lawes to be diſ<g ref="char:EOLhyphen"/>cerned or known?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>There are two Rules by which the Lawes and Cuſtomes of Countries are to be diſcerned.</hi>
+               </p>
+               <p n="1">1. By the Law of Nature, ſpoken of before, by that light. by which we know
+<pb n="13" facs="tcp:170020:8"/> what is right or wrong, either in doing or ſuffering. <hi>Altrine facias, quod tibi fa<g ref="char:EOLhyphen"/>ctum nolis;</hi> in this all good eſtates agree, in the ſubſtance, framing their poſitive Lawes againſt Atheiſme, Murther, Adul<g ref="char:EOLhyphen"/>tery, Theft, &amp;c. Things in the light of Nature Condemned. Nations alſo differ in the puniſhment and means of reſtrai<g ref="char:EOLhyphen"/>ning which is not in Nature defined. If any Law in a State be made againſt this of Nature, it muſt needs be inconvenient as implicating a contradiction in the Go<g ref="char:EOLhyphen"/>vernment to other Lawes. For that the whole Law of nature, is moſt agreeable, and conformable, in all the ſeverall parts unto it ſelfe.</p>
+               <p n="2">2. The ſecond Rule by which the Law of Nations are diſcerned; is, by the Sup<g ref="char:EOLhyphen"/>poſition of the State, that is; by compa<g ref="char:EOLhyphen"/>ring the Law or Cuſtom, with the maine government in Practiſe, for if a Law be made which holds not on ſcope with the preſent Government eſtabliſhed, it muſt needs breed variance and diſcord, and in the end ſome occaſion for one party to aſſaile the other. As it muſt needs hap<g ref="char:EOLhyphen"/>pen to a Monarchy, if the people get any power to deale in the State; but moſt
+<pb n="14" facs="tcp:170020:9"/> commonly in a popular State, if either they continue their great Offices for too long a time, or yeild too great authority, by Decree, to any one man. <hi>Sy<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a</hi> firſt, and afterwards <hi>Caeſar</hi> gate the whole ſtate in<g ref="char:EOLhyphen"/>to their hands, by the name of perpetuall Dictators. <hi>Auguſtus,</hi> by a more popu<g ref="char:EOLhyphen"/>ler name, Tribune of the people.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>By this I underſtand, that its a dan<g ref="char:EOLhyphen"/>gerous thing, ſuddenly to alter a ſtanding Law, or cuſtome of a Nation or State; for you ſay that divers diſtractions and broyles do enſue thereupon?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Auntient Lawes and cuſtomes, are not to be ſuddenly changed, though they be but of ſmall importance.</hi> Plato <hi>thinks that the change of Muſick ought not to be ſuffe<g ref="char:EOLhyphen"/>red, least that ſhould alſo change mens con<g ref="char:EOLhyphen"/>ditions. Amongſt the</hi> Thurans <hi>whoſoever attempted a new Law, must perſwade it with a Halter about his neck, with which he was to be hanged, if he failed in ſhewing the neceſſity of it.</hi>
+               </p>
+               <p>
+                  <hi>New Lawes are ſeldome received with intire conſent, and hardly obſerved at the firſt, if there be not great neceſſity; which neceſſity ſeldom appeareth, but with hazard, which may breed much danger before the Law be eſtabliſhed.</hi>
+               </p>
+               <pb n="15" facs="tcp:170020:9"/>
+               <p>
+                  <hi>Few Lawes make ſhew of much vertue and obedience, yet it is more ſecurity when all Lawes neceſſary have been together framed, and by continuance gotten ſtrength. It is bet<g ref="char:EOLhyphen"/>ter to prevent a miſchiefe, then to ſeek for a remedy, after it is happened; for though it be true, that</hi> (in corruptiſſima Rep. plures ſunt leges) <hi>yet its true</hi> ratione ſigni, <hi>not</hi> ratione Cauſae, <hi>for that Lawes do not make any corruption, but ſhew it, which would be greater if it were not hindred by Law, and men, must be ſuppoſed as they are, not as they ſhould be; that as occaſions of all na<g ref="char:EOLhyphen"/>tures do ariſe, ſo in time vices of all ſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ts will ſooner ſhew themſelves then vertues.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>What you have allready ſpoken concerning Law ſufficeth. I ſhall now intreat you, for my more cleare and di<g ref="char:EOLhyphen"/>ſtinct apprehenſion, to reſolve Magiſtra<g ref="char:EOLhyphen"/>ty into the ſeverall heads and branches thereof?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Magiſtracy, is a power in men which boldeth all in obedience to Religion and Law.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>You are againe harping on your old ſtring, the power of Magiſtrates in matters of Religion, but I beleeve you will not now reſolve me, in regard you
+<pb n="16" facs="tcp:170020:10"/> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave denyed me formerly?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>I told you before, and I tell you a<g ref="char:EOLhyphen"/>gaine, I cannot now reſolve you, becauſe it is a matter of great conſequence, and the greateſt Schollers are (if I may ſo ſay) to their</hi> Ne plus ultra, <hi>concerning this thing, but I ſhall <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re long take ſome opportunity to give you my thoughts herein, I will let it paſſe now and proceed to the matter in hand, relating to Magiſtrates.</hi>
+               </p>
+               <p>Magiſtrates are of two ſorts.</p>
+               <p n="1">1. Supreame, who have the firſt place in Honour, and the cheifeſt in power to inforce obedience, that Religion and Lawes may be obſerved.</p>
+               <p n="2">2. Subordinate, be all Magiſtrates that have del<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gate power, from the Supreame authority, to hold men in obedience in their ſeverall places.</p>
+               <p>
+                  <hi>In the ſupreame Magiſtrate is eſpecially conſidered, capacity of the State. which is two wayes.</hi>
+               </p>
+               <p n="1">1. By his owne underſtanding and experience, knowing and intending what to adviſe in all occurrences, which is al<g ref="char:EOLhyphen"/>moſt impoſſible in the variety of acci<g ref="char:EOLhyphen"/>dents which befall in State buſineſſe; yet ſuch we read <hi>Auguſtus</hi> to have beene;
+<pb n="17" facs="tcp:170020:10"/> who kept written with his own hand large remembrances, of all his Legions, Officers, Rents, Cuſtomes, Allyes, Leagues &amp;c.</p>
+               <p n="2">2. By Election of advice, propounded by others, which appeareth in the choyce of the beſt Councellors, and in the choice of beſt Councell in hard mat<g ref="char:EOLhyphen"/>ters, neither blind by weakneſſe of judge<g ref="char:EOLhyphen"/>ment, nor inclined by partiall affection: for the Princes choice is the life of any advice be it never ſo wiſe. If we looke into any of their falls, they muſt have fallen not for want of fit Counſell pro<g ref="char:EOLhyphen"/>pounded, but for want of Judgement, or partiall affection in the choice of that Counſell which they followed. <hi>Qui<g ref="char:EOLhyphen"/>nec ſibi poteſt recte conſulares, nec aliis bene conſulentibus auſcultare velit, extremi eſt ingenij.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>What are the generall Suppoſiti<g ref="char:EOLhyphen"/>ons holden by the wiſeſt Magiſtrates?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p n="1">1. To prevent all inconvenien<g ref="char:EOLhyphen"/>ces, in the beginning, and not to think thoſe things which ſeverally to the vul<g ref="char:EOLhyphen"/>ger ſort ſeeme little, to be little., being joyned together. Inſenſible vapors, do breed horrible Tempeſts, and ſmall grains great heaps.</p>
+               <p n="2">
+                  <pb n="18" facs="tcp:170020:11"/>2. In avoiding inconveniences, to have ſpeciall regard to the manner of a<g ref="char:EOLhyphen"/>voyding them. In making their people obedient and quiet, not to ſuffer them ſo to forget Armes that they may be a prey, to their forraigne Enemies, in making themſelves ſtrong againſt the Enemies, carefully to provide againſt diſobedience and mutining, which often happeneth a<g ref="char:EOLhyphen"/>mongſt Military people.</p>
+               <p n="3">3. Not to ſuffer any one part, how good ſo ever in ſhew to attaine an over<g ref="char:EOLhyphen"/>ſwaying power, or dependance, which cannot be brought and holden in order, and obedience, if oppoſition ſhould hap<g ref="char:EOLhyphen"/>pen, <hi>occaſio facit ambitioſis.</hi> And mens powers are more certainly ruled, then their wills.</p>
+               <p n="4">4. To diſtinguiſh warily offences and good deſerts, rewards and puniſhments, that neither great deſerts may breed In<g ref="char:EOLhyphen"/>ſolency, or hope of impunity for future offences, nor offences take away all hope of reward for future vertues.</p>
+               <p n="5">5. Eſpecially to have men, from their beginnings, to be brought up to the Com<g ref="char:EOLhyphen"/>mon-wealth in which they live. <hi>Legum optimarum nulla est utilitas niſi ſint, qui
+<pb n="19" facs="tcp:170020:11"/> ad Rempub. informentur.</hi>
+               </p>
+               <p n="6">6. It is impoſible, in civill caſes, ſub<g ref="char:EOLhyphen"/>ject to ſuch variety of times and other circumſtances, alwayes to finde out <hi>opti<g ref="char:EOLhyphen"/>mam ex bonis:</hi> It is often times enough to take that which is <hi>mimimum ex malis</hi> &amp;c. In thoſe paſſages there is not re<g ref="char:EOLhyphen"/>ſpect alwayes to be had to the greater part, nor yet to the better part, but to the whole State intirely conſidered: <hi>Pars quicquid est totius eſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I conceive thoſe ſix foregoing ſup<g ref="char:EOLhyphen"/>poſitions or Rules are peculiarly inci<g ref="char:EOLhyphen"/>dent to the ſupreame Magiſtrate, but how ought a ſubordinate Magiſtrate to be qua<g ref="char:EOLhyphen"/>lified?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Three things are to be conſidered chiefly in a ſubordinate Magiſtrate:</hi>
+               </p>
+               <p n="1">1. That they do affectionatly love the State eſtabliſhed.</p>
+               <p n="2">2. That they have ſufficient power to execute that which is required by their Office.</p>
+               <p n="3">3. That their parts be anſwerable to that charge which they undertake, in the Common-wealth. <hi>Viz.</hi> Valour and Bounty fit for a Souldier, Wiſdome and Juſtice for a Judge, Frugality and hone<g ref="char:EOLhyphen"/>ſty,
+<pb n="20" facs="tcp:170020:12"/> for an Officer of account.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>What are the accidentall differen<g ref="char:EOLhyphen"/>ces of States?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>They are two.</hi>
+               </p>
+               <p n="1">1. Good, Bad.</p>
+               <p n="2">2. We<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k Strong.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>How or in what reſpect<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are Com<g ref="char:EOLhyphen"/>mon-wealths ſaid to be Good or bad?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Three wayes.</hi>
+                  <list>
+                     <item>1. In reſpect of their good or bad Lawes, ſo the <hi>Lacedemo<g ref="char:EOLhyphen"/>nian Reſpublick,</hi> was thought wanting, which by Lawes permitted Theft, and Adul<g ref="char:EOLhyphen"/>tery.</item>
+                     <item>2. In reſpect of Good or Bad Magiſtrates, ſo the <hi>Lacedemo<g ref="char:EOLhyphen"/>nian Reſpublike</hi> was holden the beſt, in that the Magiſtrates moſt ſtrictly obſerved the Lawes and Cuſtomes of their C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>untrey, and the ſuppoſition of their State, which was <hi>A<g ref="char:EOLhyphen"/>riſtocraticall,</hi> and <hi>Military.</hi>
+                     </item>
+                     <item>3. In reſpect of both, as all good Common-wealths, whoſe Lawes agree with the Law of Nature, and the Magiſtrates
+<pb n="21" facs="tcp:170020:12"/> acting according to the Lawes</item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Is the Law, alwayes to be executed according to the letter of I?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>No fo it is neither ſafe that Law alone ſhould rule which can not diſtinguiſh of times, occaſions, nor actions. Neither is it ſafe that Magiſtrates ſhould rule alone without Law, for men are ſo ſubiect to ha<g ref="char:EOLhyphen"/>tred love, feare, paſſion reward &amp;c. It is beſt where both have their place, for that Law directeth beſt actions; but diſcretien and true iudgement beſt diſtinguiſheth cir<g ref="char:EOLhyphen"/>cumſtances.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>How ſhall a man diſcerne the ſtrength of a State?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>By obſerving theſe three things.</hi>
+               </p>
+               <p n="1">1. Whether it be ſtrong in the frame it ſelfe of preſent Government, ſo if Mo<g ref="char:EOLhyphen"/>narchy is held more ſtrong, and in leſſe hazard of diſtraction and diviſion then a popular ſtate.</p>
+               <p n="2">2. Whether it be ſtrong by continuance of time, having long holden on forme, ſo New Principalities are weak, as wan<g ref="char:EOLhyphen"/>ting time to confirme them; Auncient Principalities are ſtrong, where the peopl have been inured to reverence and obedi<g ref="char:EOLhyphen"/>nce, <hi>Monarchy</hi> could not have been taken
+<pb n="22" facs="tcp:170020:13"/> from the <hi>Aſſyrians,</hi> if <hi>Sardanapalus</hi> had not been a beaſt, nor from the blood of the <hi>Ceſars,</hi> if <hi>Nero</hi> had not been rather a Monſter then a Man.</p>
+               <p n="3">3. Whether it be ſtrong only by vertue, Wiſdome, and Valour<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of them, which are in preſent Authority. So only New Principalities have ſtrength by them which raiſe them, Such was the Gre<g ref="char:EOLhyphen"/>ſian Monarchy, which appeared in the world, and vaniſhed againe like lightning; the ſtrength whereof wholy conſiſted in <hi>Alexander,</hi> and with his death periſh<g ref="char:EOLhyphen"/>ed.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>What are the reall differences of Common-wealths, and from whence have States their Denomination?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>The reall difference of Common-wealths are taken from the different order in com<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>anding and obeying; the Name of every State is given according to the Su<g ref="char:EOLhyphen"/>preame and highest Authority.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Wherein is the Supreame Authori<g ref="char:EOLhyphen"/>ty manifeſted?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>In theſe foure things.</hi>
+               </p>
+               <p n="1">1. Poteſtas belli et pacis.</p>
+               <p n="2">2. Poteſtas vitae &amp; Necis.</p>
+               <p n="3">3. P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. faciendar. legum.</p>
+               <p n="4">
+                  <pb n="23" facs="tcp:170020:13"/>4. Po. Creandor. magiſtrat.</p>
+               <p>By theſe foure powers, States are deter<g ref="char:EOLhyphen"/>mined in themſelves, and diſtinguiſhed one from another.</p>
+               <p>In whom thoſe four powers, or moſt of them do reſt, whetherin on<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome few, or in many, in them is the ſupreame Au<g ref="char:EOLhyphen"/>thority, and they give the Name to the State. If they be abſolute in any, the ſtate of them is called an abſolute Monarchy, or Ariſtocraty &amp;c. If they be partly in ſome, and partly in others, then the State is ſaid to be a mixt Common<g ref="char:EOLhyphen"/>wealth.</p>
+               <p>According as theſe powers are dive<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſly ſetled, ſo States are r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ally diſtinguiſhed.</p>
+               <p>If thoſe powers be in one perſon, well uſed, to the good of the people under him, the State is called
+<lb/>
+                  <hi>A Monarchy.</hi>
+               </p>
+               <p>If in the perſon of one, abuſed, to the profit only of that one, and of his who hath the Authority in his hands, its called
+<lb/>
+                  <hi>A Tyranny.</hi>
+               </p>
+               <p>If in ſome few, well uſed to the com<g ref="char:EOLhyphen"/>mon ſafety it is called,
+<lb/>
+                  <hi>An Ariſtocraty.</hi>
+               </p>
+               <p>If in ſome few abuſed, to the profit and pleaſure of ſome few.
+<lb/>
+                  <hi>
+                     <pb n="24" facs="tcp:170020:14"/>An Oligarchy.</hi>
+               </p>
+               <p>If the fore ſaid powers, be in the mul<g ref="char:EOLhyphen"/>titude, well uſed, to the ſafety of all, Law having power above the people, i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s then called,
+<lb/>
+                  <hi>A good Democraty.</hi>
+               </p>
+               <p>If in the multitude, abuſed to faction, and the ſetting up the baſeſt of the people, the multitude over-ruling Law,
+<lb/>
+                  <hi>A bad Democraty.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Which of theſe Governments do you eſteem the beſt?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Heretofore moſt Hiſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rians were of the iudgement that regulated Monarchy, was the beſt, but the State of</hi> England, <hi>as now it ſtands, admits not ſuch weak iudge<g ref="char:EOLhyphen"/>ments as mine to diſtinguiſh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>
+                  <hi>SIR,</hi> I ſee you are ſilent in your thoughts, I pray tell me what you ac<g ref="char:EOLhyphen"/>count the worſt.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>The worſt State is a Tyranny, as be<g ref="char:EOLhyphen"/>ing oppoſite to the beſt, Bonum &amp; malum in ſuo g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re maxime diſtant.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I have heard of an <hi>Anarchy,</hi> I pray what government is that?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Anarchy is no State, but a confuſi<g ref="char:EOLhyphen"/>on of all order, much wo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe then the worſt Tyranny, which well appeared at</hi> Rome,
+<pb n="25" facs="tcp:170020:14"/> 
+                  <hi>after the death of</hi> Nero, <hi>when all men did what they liſt, which cauſed an honourable Senato<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to ſay, that if that miſorder ſhould continue, they ſhould have occaſion to wiſh for</hi> Nero <hi>againe. It is better living where nothing, then where all things are lawfull.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I remember you told me, th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t if the forementioned powers were in one perſon, it was an abſolute Monarchy; by which I conceive there are ſev<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rall kinds of Monarchi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>A Monarchy is the government of one to the preſervation of all, But Monarchies are of two ſorts.</hi>
+               </p>
+               <p n="1">1. Abſolute where the chi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f doth rul<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all cauſes by his abſolute Authority, not any way d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by Law, and the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e are good, ſo ſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re as the Authority is well uſed, and the cheif doth hold it, <hi>Sa<g ref="char:EOLhyphen"/>lus populi ſuprema L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>x.</hi> For govern<g ref="char:EOLhyphen"/>ment was before poſitive Lawes, and in Nature, there is abſolute priority and power of the Father over his Children.</p>
+               <p n="2">2. Limited, and that three manner of wayes.</p>
+               <p n="1">1. By Lawes a lore, where the Sub<g ref="char:EOLhyphen"/>ject may have lawfull audience, and he<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p in Law, for holding, or recovering his
+<pb n="26" facs="tcp:170020:15"/> right againſt the Prince.</p>
+               <p n="2">2. By Ove<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſeers alone, where there be Offic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs of State, which may demand <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon, wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the cheif ſtretcheth his power to the the d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trime<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of the Subject, ſuch have been the Electors in <hi>Germany.</hi>
+               </p>
+               <p n="3">3. By Lawes and Overſeers, as in times paſt in <hi>France,</hi> when the twelve pe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res held their places, and their Parliaments had their full power for the proceſſe of Lawes.</p>
+               <p>Juſt Prin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ipalities are generally mai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tained by hould<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng the favour and love <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f the Subject.</p>
+               <p>
+                  <hi>Imperium eſt in voluntate obſequenti<g ref="char:EOLhyphen"/>um.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>What meanes is a Governour to uſe to gaine the love and affection of his people; and being gained; how isit to be kept, and preſerved?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>The peoples love is houlden by theſe meanes.</hi>
+               </p>
+               <p n="1">1. By being Religious, to wards God, for that men will never ſeek, nor deſire the overthrow of them, whom they are perſwaded to be g<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ded with divice pro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ection.</p>
+               <p n="2">2. By ſhewing <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the puli<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſafe<g ref="char:EOLunhyphen"/>ty
+<pb n="27" facs="tcp:170020:15"/> not of privat gaine, me<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doe moſt willingly contribute, when they are per<g ref="char:EOLhyphen"/>ſwaded that money is either imployed or reſe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ved for publick benefit.</p>
+               <p n="3">3. By b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilding publick works, and r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leiving publick misfortunes.</p>
+               <p n="4">4. By beſtowing honours and re<g ref="char:EOLhyphen"/>wards upon men of great worth by de<g ref="char:EOLhyphen"/>ſert<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p n="5">5. By referring all matters of Juſtice and puniſhment to their offences, never ſhewing contentment in the ſhame or miſery of any.</p>
+               <p n="6">6. Generally, by bounty, magnanimi<g ref="char:EOLhyphen"/>ty, and all ho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ourable and vertuous acti<g ref="char:EOLhyphen"/>ons.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Tyranny you ſay is the worſt of governments, I ſhall earneſtly deſire, you would branch it forth, into its ſeverall parts, by which I may perceive the ini<g ref="char:EOLhyphen"/>quity of it.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Tyranny is the government of one man according to his own will, and reſpecting only his owne profit, Tyrants have uſed two wayes to ſupport and uphold their Tyran<g ref="char:EOLhyphen"/>ny.</hi>
+               </p>
+               <p n="1">1. By taking away all deſire and know<g ref="char:EOLhyphen"/>ledge of altering their government, which
+<pb n="28" facs="tcp:170020:16"/> is thus done. Firſt by working puſilla<g ref="char:EOLhyphen"/>nimity. Ignorance, and diſtruſt in the people; which is acted five manner of wayes.</p>
+               <p>
+                  <list>
+                     <item n="1">1. By taking away all Schooles, and diſcipline; by which men might under<g ref="char:EOLhyphen"/>ſtand what is right or wrong; A thing practiſed by the Turks &amp;c.</item>
+                     <item n="2">2. By taking away all ſocieties and fra<g ref="char:EOLhyphen"/>ternities, by which they might be ac<g ref="char:EOLhyphen"/>quainted one with another.</item>
+                     <item n="3">3. By placing Guards in the ſtrongeſt places, by which they might ſuppreſſe a<g ref="char:EOLhyphen"/>ny ſudden attempt.</item>
+                     <item n="4">4. By placeing privy ſpies to entrap ſuch as talk of State matters, and ſo make all jealous of one another.</item>
+                     <item n="5">5. By often making ſhew of forraigne forces, which may be feard to be ready if any need require.</item>
+                  </list>
+               </p>
+               <p n="2">2. By taking a way all power from the people, which is thus wrought:</p>
+               <p>
+                  <list>
+                     <item n="1">1. By baniſhing or putting to death, or ſhutting up in Priſon the men of account and their ofspring, that no male contents may know where to finde a leader that the people would follow; the houſe of
+<pb n="29" facs="tcp:170020:16"/> 
+                        <hi>Bela</hi> took this courſe in the Moſcovite State, It was <hi>Perianders</hi> Counſell to <hi>Thraſibulus;</hi> the houſe of <hi>Ottiman</hi> is ſo jealous, that the Grandſenior never thinks his Eſtate ſure, before he hath cut of his Brethren.</item>
+                     <item n="2">2. By utterly impoveriſhing their Subjects by exactions. <hi>Dionyſius</hi> in 5 years ga<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t all the treaſury of <hi>Sicily</hi> into his hands.</item>
+                     <item n="3">3. By maintaining diſſcention between the great men and the Commons, or of the greater men between themſelves, ta<g ref="char:EOLhyphen"/>king part with neither, that they may know and uſe the griefes and wants of all.</item>
+                     <item n="4">4. By not ſuffering the great men to live at home, but attend there, where the higher power do obſcure them, or if they be imployed to keep their Children as Hoſtages, ſo uſeth the <hi>Magnus Mogor</hi> in <hi>Aſia.</hi>
+                     </item>
+                     <item n="5">5. To commit no truſt to the Natives, or men of great blood or kindred, but to Eunaches or ſtrangers, ſuch as can not be popular, nor hold place, but by their Tyranny, ſuch are the Turkiſh Baſſaes.</item>
+                     <item n="6">6. To ſuffer no man to beare Armes, but their ſworn Souldiers, to give Lands
+<pb n="30" facs="tcp:170020:17"/> only to ſuch, the inheritance depending ſtill at their proper diſpoſition, the Mo<g ref="char:EOLhyphen"/>ſcoveticall and Turkiſh practiſe, the one to his Gentlemen; the other to his Tima<g ref="char:EOLhyphen"/>riots; All other are ſlaves to them, as they are to their cheif Lord.</item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>By what properties ſhall I know <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King from a Tyrant?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Theſe four differenses will diſtinguiſh them.</hi>
+               </p>
+               <p n="1">1. Kings were firſt choſen out of the beſt, and by the beſt, to guard them, and to rule the raſh multitude.</p>
+               <p>Tyrants had their beginning <hi>ex Dema<g ref="char:EOLhyphen"/>gogis;</hi> ſuch as flattered the people, and ſtirred them up againſt the worthyeſt perſons, and ſo under ſhew of prote<g ref="char:EOLhyphen"/>cting of them, made away, all ſuch as might with ſtand them, <hi>Piſiſtratus</hi> at <hi>A<g ref="char:EOLhyphen"/>thens, Dionyſius</hi> at <hi>Syracuſe.</hi>
+               </p>
+               <p n="2">2. The ſecond ſcope of a King is vertue and honour.</p>
+               <p>The ſcope of a Tyrant, profit and pleaſure.</p>
+               <p n="3">3. A King is the protector of all, Rich, and poore, that on neither doth, nor ſuf<g ref="char:EOLhyphen"/>fereth wrong of the other.</p>
+               <p>A Tyrant only regardeth the profit
+<pb n="31" facs="tcp:170020:17"/> and ſecurity of him ſelf, and his leaving others open to al wrongs.</p>
+               <p n="4">4. The truſt of a King is in his Sub<g ref="char:EOLhyphen"/>jects, and of them he maketh his Guard.</p>
+               <p>The truſt of a Tyrant is only in ſtran<g ref="char:EOLhyphen"/>gers, and to them he commits his ſafe<g ref="char:EOLhyphen"/>ty.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>How are Principalities over<g ref="char:EOLhyphen"/>thrown?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Two wayes.</hi>
+               </p>
+               <p n="1">1. By forraign power, when one ſtate aſſayleth and overthroweth another, the conquered receiveth ſuch govern<g ref="char:EOLhyphen"/>ment as the Conqueror thinketh meet, ſo the Romans ov<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rthrew many King<g ref="char:EOLhyphen"/>doms, and turned them into principali<g ref="char:EOLhyphen"/>ties; to be governed by their Lif<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ten<g ref="char:EOLhyphen"/>nants.</p>
+               <p n="2">2. By Domeſtic<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll ſeditions, which are commonly raiſed by theſe occaſions, in number <hi>Six.</hi>
+               </p>
+               <p>
+                  <list>
+                     <item n="1">1. <hi>By the Iuſtice of the Rulers.</hi>
+                        <list>
+                           <item n="1">1. In Injuries towards th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ir perſons, which is acted two manner of wayes.</item>
+                           <item n="2">1. In murthering, and raviſhing their Kinsfolks. As the <hi>Tar<g ref="char:EOLhyphen"/>quines</hi> at <hi>Rome.</hi>
+                           </item>
+                           <item n="3">
+                              <pb n="32" facs="tcp:170020:18"/>2 In beating like ſlaves men of account.</item>
+                        </list>
+                     </item>
+                     <item n="2">2 In oppreſſing with exactions, ſo far that by <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>xtream poverty, ſubjects grow deſperat, having nothing to loſe, but their <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fe, whereof want hath made them wea<g ref="char:EOLhyphen"/>ry.
+<p>2 <hi>By contempt of them.</hi>
+                        </p>
+                        <list>
+                           <item n="1">1 For their folly, and incapaci<g ref="char:EOLhyphen"/>ty of ſtate.</item>
+                           <item n="2">2 For effeminate manners, as <hi>Sard<gap reason="illegible" resp="#APEX" extent="3 letters">
+                                    <desc>•••</desc>
+                                 </gap>palus.</hi>
+                           </item>
+                           <item n="3">3 For Drunkenn<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſſe, as <hi>C<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>mbiſes</hi> and <hi>Dioniſius Junior.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item n="3">3 By feare of death or diſgrace in the ſubject.
+<list>
+                           <item n="1">1 Either through knowledge or ſuſpicion of anger conceived in the Cheif himſelf.</item>
+                           <item n="2">2 Or feare of ſlander from them which are about him in Au<g ref="char:EOLhyphen"/>thority.</item>
+                        </list>
+                     </item>
+                     <item n="4">4 By hope of profit and wealth, which moveth ſpecially baſe Rebells, which pretend a community of all.</item>
+                     <item n="5">5 By Ambition or deſire of Honour, the moſt dangerous motive, for that it poſſeſſeth only great ſpirits, which are of
+<pb n="33" facs="tcp:170020:18"/> reſolution, to their utmoſt power, As <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>av<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>la</hi> which attempted upon King <hi>Po ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nna,</hi> and the Confederats that ſlew <hi>Caeſar</hi> in the Senat.</item>
+                     <item n="6">6 By deſire of change in Religion, which hath only moved men in theſe lat<g ref="char:EOLhyphen"/>ter times, being never made a pretence or motiv. for either forraign Conqueſts, or Domeſticall ſeditions, before <hi>Mah<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>met. Patet ſupra.</hi>
+                     </item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>You formerly told me, that <hi>Ari<g ref="char:EOLhyphen"/>ſtocraty</hi> was the power of Ruling in ſome few, well uſed, to the Common ſefety: I pray acquaint me of what ſort of the people they are or ought to be?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Ariſtocraty, <hi>is a gou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rnment of the beſt, for the ſafety of all, but there are three kinds.</hi>
+               </p>
+               <p n="1">1 The firſt, where reſpect is had, to both wealth, and vertue, in the cheif of all Officers.</p>
+               <p n="2">2 The ſecond where reſpect is only had of wealth, this inclyneth to an Oli<g ref="char:EOLhyphen"/>garchy.</p>
+               <p n="3">3 The third, where reſpect is only had of virtue, leaving it free to all, to make way to the cheif places, this inclineth to a Democraty.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="34" facs="tcp:170020:19"/>C.</speaker>
+               <p>What means have been uſed to maintain and uphold States <hi>Ariſtocrati<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Theſe Nine Maximes have beene h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ld <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd practiſe'd.</hi>
+               </p>
+               <p n="2">1 Comp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lling the Nobility to bring up their Children in feats of Armes, and politick Diſcipline, ſuffering the r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt to do as they liſt.</p>
+               <p>So the <hi>Lacedemonians</hi> brought up all their Children in publick places, to<g ref="char:EOLhyphen"/>gether, where they learned exerciſe of Armes and knowldege of government.</p>
+               <p n="3">2 Conſtraining the Nobility upon great pe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, to be preſent at their pub<g ref="char:EOLhyphen"/>lick Aſſemblies, ſuffering the reſt to at<g ref="char:EOLhyphen"/>tend their profit and buſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſe.</p>
+               <p n="3">3 Receiving the Citizens into their ſp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ciall patro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ages, that in Popul<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> quarrells, every man ſeverally might pacifie his Clyents, or followers, this was often practiſed by the Senators of <hi>Rome,</hi> to uphold their State.</p>
+               <p n="4">4 Suffering none to continue in the greateſt Offices for long time, that he might procure too many dependents, or w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n his oppoſites.</p>
+               <p n="5">5 Giving noe man that honour whch
+<pb n="35" facs="tcp:170020:19"/> others might not hope to obtain.</p>
+               <p n="6">6 Imploying them which were too great, in forraign buſineſſe, that abſenc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> might make them forgotten.</p>
+               <p n="7">7 Keeping Offices of Honour, wholly amongſt the No<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ility, leaving them of petty matters and gain to the people.</p>
+               <p n="8">8 Suppreſſing the firſt occaſions of quarrells amongſt the greateſt men, To that end to hold friendly meetings in pla<g ref="char:EOLhyphen"/>ces indifferent, where pacifications may be made.</p>
+               <p n="9">9. Holding the people in fehre of pub<g ref="char:EOLhyphen"/>lick danger<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, to make an enemy if there were none, by that means, to draw from home ſuch as were mutinous: A thing much practiſed by the Roman Senate, while their power held.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>You have declared nine Maxims or Sophims, that are the props of an Ariſto<g ref="char:EOLhyphen"/>craticall State, but by what means is that government overthrown and changed?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Three things alter and change an A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſtocraty.</hi>
+               </p>
+               <p n="1">1. The Sedition of the great men, when their numbers do ſo increaſe, that the Ho<g ref="char:EOLhyphen"/>nours to be devided, are not enough to ſa<g ref="char:EOLhyphen"/>tisfie their Number, the Lacedemonian,
+<pb n="36" facs="tcp:170020:20"/> for remedy of this, ſent the <hi>Parthenians</hi> into <hi>Italy</hi> which built <hi>Tarentum.</hi>
+               </p>
+               <p n="2">2 The Tranſgreſſion of that ſuppoſiti<g ref="char:EOLhyphen"/>on in not making vertuea mean between the wealth of the great men, and liberty of the people; yeelding too much to the peoples liberty, makes the State Demo<g ref="char:EOLhyphen"/>craticall, but wholy to wealth Oligar<g ref="char:EOLhyphen"/>chicall.</p>
+               <p n="3">3 Negligence in ſmall matters, ſuffe<g ref="char:EOLhyphen"/>ring inferior Officers to be perpetuall, which after giveth example and occaſion that the greateſt likewiſe ſhould be ſo.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>By this it is evident to me that <hi>A<g ref="char:EOLhyphen"/>riſtocraty</hi> may be turned into a State De<g ref="char:EOLhyphen"/>mocraticall or Oligarchycall: my re<g ref="char:EOLhyphen"/>queſt is, that you would more fully ſhew me what Oligarchy is, and wherein it differeth from the State laſt mentioned?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Oligarchy is a Government of ſome few to their owne profit; and it may be branch<g ref="char:EOLhyphen"/>ed forth into 4. kinds.</hi>
+               </p>
+               <p n="1">1 Where all cheife Officers, are cho<g ref="char:EOLhyphen"/>ſen only by valution of wealth and poſſeſſions.</p>
+               <p n="2">2 Where men of middle wealth, are admitted to Offices, but the pre<g ref="char:EOLhyphen"/>ceedent Magiſtrate c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>huſeth his ſuc<g ref="char:EOLhyphen"/>ceſſor.</p>
+               <p n="3">
+                  <pb n="37" facs="tcp:170020:20"/>3 Where, the Magiſtrates ſucceed, as in Inheritances, The Son in his Fathers place.</p>
+               <p n="4">4 Where all power is in ſome few, which rule above Law as they liſt, and this is like the worſt kinde of Democraty.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>How is this Rule<g ref="char:punc">▪</g> of Government kept from fall or ruine?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>The Fabrick of this government is pre<g ref="char:EOLhyphen"/>ſerved from fall or ruine, by thoſe Axioms or Sophiſmes, as Sir</hi> Walter Rawleigh <hi>calls them, in his Book, called the</hi> Prince of State, <hi>which are theſe.</hi>
+               </p>
+               <p n="1">1 By ſuffering no Elections, to paſſe either by Lot or by Common ſuffrages, but by a ſet number.</p>
+               <p n="2">2 By ſuffering no choice to be made, but out of certaine, which likewiſe had ſuch a valuation of goods.</p>
+               <p n="3">3 By making their Officers perpetuall or of long continuance.</p>
+               <p n="4">4 By maintaining great Troopes of Horſe, impoſed on them in Authority, which make a Terrible ſhew, and can not be maintained but with great wealth ſo did the <hi>Eretrians</hi> and <hi>Chalcedonians.</hi> But <hi>Ariſtrocratyes</hi> and <hi>De<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ocratyes</hi> have
+<pb n="38" facs="tcp:170020:21"/> rather maintained foot-men for their Souldiers. As the <hi>Lacedemonians,</hi> the <hi>Romans,</hi> and at this day the Swiſſers.</p>
+               <p n="5">5 By keeping the people poore and without Armes, that they might neither know how to arme themſelves, or give, pay to them which ſhould take Armes in their behalfe.</p>
+               <p n="6">6 By raiſing many Warres, or ru<g ref="char:EOLhyphen"/>mors of Warres; Common people are eaſily awed in publique dangers.</p>
+               <p n="7">7 By making Marriages only with themſelves, where Marriages are Com<g ref="char:EOLhyphen"/>municated, the greater ſort is leſſe eſtee<g ref="char:EOLhyphen"/>med.</p>
+               <p n="8">8 By providing means of employment in Warres, or Colonyes, when their Iſ<g ref="char:EOLhyphen"/>ſue groweth too great, and all can not be in honour.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I conceive thoſe political Fabricks are deſtroyed, and brought to nought, by fewer means and wayes: they are upheld like a houſe built by many hands, yet one man or two can pluck it downe. My requeſt now is, that you would ſhew and unfold unto me the occaſions of Oligarchyes fall?</p>
+               <p n="1">
+                  <pb n="39" facs="tcp:170020:21"/>1 By them that are not in Authority. As at <hi>Heraclea</hi> and <hi>Maſſilia,</hi> where the younger Brethren roſe againſt the Elder, for that they were excluded from the Common-wealth.</p>
+               <p n="2">2 By them in Authority, theſe five wayes.
+<list>
+                     <item n="1">1 Either by reaſon of the ſmal num<g ref="char:EOLhyphen"/>ber, the Father and Son, or two Brethren can not be in Office to<g ref="char:EOLhyphen"/>gether.</item>
+                     <item n="2">2 When the few in place would yet have fewer.</item>
+                     <item n="3">3 When the few having Luxuriouſly ſpent their goods and Eſtates, ſeek to ſpoile the Common Trea<g ref="char:EOLhyphen"/>ſury.</item>
+                     <item n="4">4 When of thoſe few which Rule, all can not come to the Chiefeſt place.</item>
+                     <item n="5">5 When they in Authority by any occaſion fall at diſſention and aſ<g ref="char:EOLhyphen"/>ſayle onn another, the weaker fetching in the people for his Guard, maketh either a Tyrany or a Democraty.</item>
+                  </list>
+               </p>
+               <p n="3">3 By Accident two wayes.
+<list>
+                     <item n="1">1 In time of Warre through di<g ref="char:EOLhyphen"/>ſtruſt
+<pb n="40" facs="tcp:170020:22"/> in the people, thoſe few enforced to hire fortaigne Soul<g ref="char:EOLhyphen"/>diers, which committed to one that is populer, with them makes himſelfe Lord of all.</item>
+                     <item n="2">2 In time of peace, when the people and thoſe few being at variance, commit themſelves to a third, which oppreſſeth them both.</item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I remember in your deſcription of States, you mention a two fold Demo<g ref="char:EOLhyphen"/>craty; I requeſt your patience to unfold to me the particulars thereof, and what difference hath been uſed in their Electi<g ref="char:EOLhyphen"/>on of cheife Officers.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>A Democraty, is a Government of all, to the good of all, or elſe A government of a multitude which are the greater part of the State, to that end they propound to themſelves, and this is called a bad Demo<g ref="char:EOLhyphen"/>craty, and of neere kin to Tyranny.</hi>
+               </p>
+               <p>
+                  <hi>As concerning their choice of State Offi<g ref="char:EOLhyphen"/>cers, they had divers faſhions of Liberties.</hi>
+               </p>
+               <p n="1">1 In ſome; all might be capable of the higheſt Offices, and all had voices in the Choice.</p>
+               <p n="2">2 In others; all had ſuffrages, but yet they made their choice by
+<pb n="41" facs="tcp:170020:22"/> certaine eſtimation of wealth.</p>
+               <p n="3">3 In ſome all might be Rulers, <hi>Ita ut Lex dominetur.</hi>
+               </p>
+               <p>In others all might rule. <hi>Ita ut Po<g ref="char:EOLhyphen"/>pulus dominetur.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>In my Judgement, thoſe popular States, that are not governed by the Rule or Square of Law, can have no ſtrength, neither can their baſis be well fixed.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>A popular State, hath neither ſtrength nor goodneſſe in the frame it ſelfe; beſides it is ſubiect to ſuch daily factions and diſ<g ref="char:EOLhyphen"/>ſention and making way for every impu<g ref="char:EOLhyphen"/>dent flatterer to grow mighty, by fawning on people, and ſlandering them whoſe good vertues and fortunes for their greatneſſe might be occaſion of envy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>How then is it ſupported, if it want ſtrength and goodneſſe?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>The ſtrength of it only conſiſteth in the goodneſſe, morall vertues and civill parts of their Citizens, and according to the di<g ref="char:EOLhyphen"/>vers ſorts of people popular States doe dif<g ref="char:EOLhyphen"/>fer.</hi>
+               </p>
+               <p n="1">1 The moſt ancient is of Husband<g ref="char:EOLhyphen"/>men ſuppoſed the beſt, becauſe their life being laborious and full of buſineſſe, they
+<pb n="42" facs="tcp:170020:23"/> have leaſt leiſure to mutiny from their private cares. So the Medians are re<g ref="char:EOLhyphen"/>ported to have lived before <hi>Deiocius</hi> alte<g ref="char:EOLhyphen"/>red their government.</p>
+               <p n="2">2 The ſecond of <hi>Shephards</hi> much like the former for their kind of life.</p>
+               <p n="3">3 The third of Arti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ans and Merchants &amp;c. which muſt needs be full of innova<g ref="char:EOLhyphen"/>tions through their continuall whiſpe<g ref="char:EOLhyphen"/>ring and private devices at their mee<g ref="char:EOLhyphen"/>tings.</p>
+               <p n="4">4 The other is a mixture of all thoſe kinds together. <hi>Ariſtotle</hi> condemneth utterly the laſt; and yet wee read not of any of the firſt, any thing memorable: The Athenians admitted of all ſorts to the choice of Magiſtrates, the making Lawes, and to their great cenſure, when they ba<g ref="char:EOLhyphen"/>niſhed any by <hi>Oſtraciſme.</hi>
+               </p>
+               <p>So did the Romans in the latter times howſoever the auncient did hold it a ſuf<g ref="char:EOLhyphen"/>ficient commendation to be commended. As <hi>Bonus Colonus &amp; ſtrenuus miles.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>What baniſhment was that <hi>Oſtra<g ref="char:EOLhyphen"/>ciſme,</hi> and for what time, and what the Tranſgreſſion that made men liable there: unto?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>It was a kinde of baniſhment uſed a<g ref="char:EOLhyphen"/>amongſt
+<pb n="43" facs="tcp:170020:23"/> the</hi> Athenians, <hi>and the party exiled was to remaine ten yeares in Exile, which was thus executed; by delivering Shells, with the names of the perſons con<g ref="char:EOLhyphen"/>demned written therein; It was uſed not ſo much to puniſh other Offences, as to ab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te the immoderate power of the Noblemen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>What are the pretexts of a popu<g ref="char:EOLhyphen"/>lar State, and what meanes doe they uſe to maintaine the ſame?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>The ſuppoſition of a popular State pretendeth two things, which in themſelves are plaufible.</hi>
+               </p>
+               <p n="1">1 Equality.</p>
+               <p n="2">2 Liberty.</p>
+               <p>The means of maintaining their ſup<g ref="char:EOLhyphen"/>poſition have beene theſe ſeaven.</p>
+               <p n="1">1 By chooſing all Magiſtrates by the voices of all, and out of all. <hi>Ne quis ſit excluſus á Republica.</hi>
+               </p>
+               <p n="2">2 By giving no power to any Magi<g ref="char:EOLhyphen"/>ſtrate, to put any to death, though con<g ref="char:EOLhyphen"/>demned by Law, if they appealed to the people. <hi>Vt libera ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> provocatio ad Popu<g ref="char:EOLhyphen"/>lum, abſoluta Poteſtas in Populo.</hi>
+               </p>
+               <p n="3">3 By cauſing all to know the uſe of Armes, that they neither ſhould feare Forraigne forces or powers, nor one
+<pb n="44" facs="tcp:170020:24"/> pa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tie to ſtand in awe of another.</p>
+               <p n="4">4 By ſuffering no man to continue long in Office, and to be called to an ac<g ref="char:EOLhyphen"/>count, his Office being ended and expi<g ref="char:EOLhyphen"/>red.</p>
+               <p n="5">5 By diminiſhing the power of them which were growne to great by what meanes ſoever. As the Athenians uſed their <hi>Oſtraciſmus,</hi> The <hi>Syrac<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſans</hi> their <hi>Petaliſmus,</hi> the parties name written in Olive leaves, upon which he was to be exiled.</p>
+               <p n="6">6 The more ſimple, otherwiſe. If hee can but underſtand their Lawes, and cu<g ref="char:EOLhyphen"/>ſtomes to ſee execution on Offendors, the fitter and ſaf<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r for a popular Eſtate. In ſome Democraties the chiefe Officer hath beene tied to ſuch kindes as are mecha<g ref="char:EOLhyphen"/>nicall.</p>
+               <p n="7">7 By compelling all to be at Aſſem<g ref="char:EOLhyphen"/>blies, eſpecially the meaner ſort, who in ſome popularities have been invited by rewards.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Sir, I have exerciſed your pa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>ence long, and I feare I am to bold with you; but your freeneſſe of diſcourſe hi<g ref="char:EOLhyphen"/>therto, encourageth me to demand, or requeſt ſome other few reſolutions before your departure.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="45" facs="tcp:170020:24"/>S.</speaker>
+               <p>
+                  <hi>The time I have ſpent with you, I account it not l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt, for I have made a two fold gaine thereof, by renewing our old acquaintance, and thereby our loves.</hi>
+               </p>
+               <p>2 <hi>By bringing to my remembrance what I have read out of divers aun<g ref="char:EOLhyphen"/>tient Authors concerning STATE-POLICIE. I ſhall willingly reſolve you, if your d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mandes come within the reach of my weake Lear<g ref="char:EOLhyphen"/>ning. I pray proceed to your Que<g ref="char:EOLhyphen"/>ſtion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>How are Democraticall States alterd?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Democraties are changed into O<g ref="char:EOLhyphen"/>ligarchyes, by the banding of them, in great favour with the people; if they can agr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e betweene themſelves: if they diſagree, the one aſſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yling the other, the conqueror rayſe a Monarchy.</hi>
+               </p>
+               <p>
+                  <hi>The Popular State of Rome, by the confederacy of</hi> Craſſus, Pompy, and Caeſar, <hi>proved in effect Oligarchicall, All things being acted as they would have them.</hi>
+               </p>
+               <p>
+                  <hi>Af<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir</hi> Craſſus <hi>death,</hi> Pompy <hi>and</hi>
+                  <pb n="46" facs="tcp:170020:25"/> Caeſar <hi>falling at variance, one aſſayling the other, the Conqueror drew the whole State to himſelfe.</hi>
+               </p>
+               <p>
+                  <hi>After Caeſars death it became againe Popular. The new Triumverate made it</hi> Oligarchicall, <hi>their diſſentien,</hi> Mo<g ref="char:EOLhyphen"/>narchicall <hi>againe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>What things are thoſe, without which, neither of thoſe <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orementioned States, can be ſupported, or continue without ruine.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>Ariſtotle <hi>ſayeth,</hi> Sex ſunt quae di<g ref="char:EOLhyphen"/>cuntur neceſſaria Alimenta, Artificia, Arma, Pecunia, Sacra, Judicia. <hi>More<g ref="char:EOLhyphen"/>over elſe where he ſaieth.</hi> Quinque ſunt arcana quae in poteſtate ſuperioris Ma<g ref="char:EOLhyphen"/>giſtratus reſervare ſolent Reſp. <hi>There<g ref="char:EOLhyphen"/>fore it behoveth the Supreame power of any State, to have a ſpeciall care, that thoſe ſix things be duly had in regard, and according to the reſpective qualities and number of their Subiects.</hi>
+               </p>
+               <p>
+                  <list>
+                     <pb n="47" facs="tcp:170020:25"/>
+                     <label>ALIMENTA.</label>
+                     <item>
+                        <p>Nouriſhment which is to be conſidered.</p>
+                        <p n="1">1 By what kind the people deſire to be maintained.</p>
+                        <list>
+                           <item>By Tillage.</item>
+                           <item>By Paſture.</item>
+                        </list>
+                        <p n="2">2 Where they have that which they fancie or moſt deſire, from home; or from other Countries.</p>
+                        <p n="3">3 With what eaſe or difficulty the Vi<g ref="char:EOLhyphen"/>ctualia, deſired may be gotten, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t what rates, and what quantity is requiſite.</p>
+                     </item>
+                     <label>ARTIFICIA.</label>
+                     <item>
+                        <p>Crafts to keep the people from Idleneſſe.</p>
+                        <p n="1">1 Where regard is to be had, of what matter they worke upon, whether Mettalls, Stones, or Wooll, and where thoſe things are to be had for their uſe.</p>
+                        <p n="2">2 To what valew their workes can raiſe the matter where on they work.</p>
+                        <p n="3">3 Regard is to be had, whether their
+<pb n="48" facs="tcp:170020:26"/> kinde of worke maintaine health of body, and ſtrength of minde.</p>
+                     </item>
+                     <label>ARMA.</label>
+                     <item>
+                        <p>Armes whether made in their owne Country.</p>
+                        <p n="1">1 Of what matter, of what faſhion, of what uſe, and of what advantage.</p>
+                        <p n="2">2 Whether brought from Forraigners, with what eaſe, and at what rates or price.</p>
+                        <p n="3">3 Conſideration is to be had of what advantage to the Nation, either in the excellency of the uſe, or in the pri<g ref="char:EOLhyphen"/>vate or proper uſage to men alone. As the Roman <hi>Pilum,</hi> and the bow in times paſt <hi>Anglis.</hi>
+                        </p>
+                        <p n="4">4 Whether Armes be permitted to all ſo in Democraticall ſtates, or to ſome few, as in Oligarchyes.</p>
+                        <p n="1">1 <hi>Pecuniae,</hi> Mony, of what matter it is made, and the valew of the ſame,</p>
+                        <p n="2">2 VVhether the Mines thereof be in their owne Country.</p>
+                        <p n="3">3 VVhat things abound, by which it
+<pb n="49" facs="tcp:170020:26"/> may be fetched from others.</p>
+                        <p n="4">4 VVho hath the power of valew<g ref="char:EOLhyphen"/>ing.</p>
+                        <p n="5">5 VVhat neceſſity of levying for publick uſes.</p>
+                        <p n="6">6 VVhat neceſſity of disburſing for the ſame uſes.</p>
+                     </item>
+                     <label>SACRA.</label>
+                     <item>
+                        <p n="1">1 The publick manner of ſerving God.</p>
+                        <p n="2">2 The Orders and Degrees by which the Prieſts and Levites are diſting<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iſh<g ref="char:EOLhyphen"/>ed from the Laytie, and one of them from another.</p>
+                        <p n="3">3 The maintenance, Liberty, and priviledges that they have to maintaine them of that place.</p>
+                        <p n="4">4 The power and honour that the Cheife of them have either over them of the Clergy, or over others.</p>
+                        <p n="5">5 The meanes to hold the reverence of the people.</p>
+                        <p n="6">6 The Scriptures of life, to which they are bound by Oath, Vow, or Cuſtom<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </p>
+                        <p n="7">
+                           <pb n="50" facs="tcp:170020:27"/>7 Their apparrell, in matter, Co<g ref="char:EOLhyphen"/>lour, or faſhion, how it is different from the Layety.</p>
+                        <p>The Romans kept the whole ordering of matters of Religion, eſpecially, a<g ref="char:EOLhyphen"/>mongſt their greateſt Perſonages. The Lords of the Senate, were the Pontifi<g ref="char:EOLhyphen"/>ces, and Flamines. The <hi>Salii</hi> who car<g ref="char:EOLhyphen"/>ried their <hi>Ancilia</hi> in a ſtrange manner a<g ref="char:EOLhyphen"/>bout the City, were of the young Gentle<g ref="char:EOLhyphen"/>men, and moſt of their fraternities. were of men of the beſt ſtocks.</p>
+                     </item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>VVhat were theſe <hi>Salii?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>They were the</hi> Prieſts <hi>oſ</hi> Mars <hi>the gods of Battl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, who bearing</hi> Ancilia <hi>or</hi> Targets <hi>and</hi> Sheilds <hi>dancing about the City in token of Triumph.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>VVhat is to be obſerved concerning Magiſtrates?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Foure things.</hi>
+               </p>
+               <p n="1">1 VVho hath the power of choo<g ref="char:EOLhyphen"/>ſing them.</p>
+               <p n="1">2 VVho are capable, who are not?</p>
+               <p n="1">3 VVhat cauſes are in their power? what not.</p>
+               <p n="1">4 By what their powers are <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>larged
+<pb n="51" facs="tcp:170020:27"/> or reſtrained.</p>
+               <p>So long as the power of the Se<g ref="char:EOLhyphen"/>nate of ROME availd, though the people did chuſe, yet they did chuſe their great Officers, onely <hi>ex Patritiis,</hi> out of thoſe that came from the loynes of Senators, who though they determined all matters, yet there was ſtill liberty to appeale to the p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ople.</p>
+               <p>Afterwards all were made capable and any of the Tribunes might hinder any act of the Conſul, or decree of the Senate.</p>
+               <p>
+                  <list>
+                     <label>JVDJCJA.</label>
+                     <item>
+                        <list>
+                           <item>1 Either criminall; as in caſes of life and death.</item>
+                           <item>2 Or Civill; as of perſonall or reall actions, which concerne matters of Treſpaſſe and Title</item>
+                        </list>
+                        <p>The manner of proceeding whether the Tryalls be.
+<list>
+                              <item n="1">1 De facto <hi>only</hi>
+                              </item>
+                              <item n="2">2 De Iure <hi>only.</hi>
+                              </item>
+                              <item n="3">3 De Iure &amp; de facto, <hi>together.</hi>
+                              </item>
+                           </list>
+                        </p>
+                     </item>
+                  </list>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="52" facs="tcp:170020:28"/>C.</speaker>
+               <p>There are five Maxims, or ſecrets as you call them, peculiar to the ſupream power or chiefe Magiſtrate in regulating A State or weale publick. I pray diſco<g ref="char:EOLhyphen"/>ver the particulars thereof, and how they become ſo neceſſary?</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <hi>Thoſe five.</hi> Conciones, Magiſtratus, Juditia, Arma, &amp; Exercitia. <hi>Require a more abler Statiſt then my ſelfe, to diſco<g ref="char:EOLhyphen"/>ver their power or uſe; and will take up longer time then now can be ſpared, or our patience quietly attend. In regard of the prolixity, I will only give you the bran<g ref="char:EOLhyphen"/>ches thereof, but leave the demo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtration of each particular, untill another opportu<g ref="char:EOLhyphen"/>nity ſhall preſent it ſelfe.</hi>
+               </p>
+               <p>
+                  <list>
+                     <label>CONCIONES. Aſſemblies or Counſells.</label>
+                     <item>
+                        <p n="1">1 Generall. As that <hi>Des eſtats gene<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#APEX" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>aux</hi> in France, and the Parliaments in <hi>England.</hi>
+                        </p>
+                        <list>
+                           <item>1 of what Perſons theſe ſtates Ge<g ref="char:EOLhyphen"/>nerall conſiſt.</item>
+                           <item>2 In what matters they may deale.</item>
+                           <item>3 VVhat Power they have, limited by Law, or above Law.</item>
+                           <item>4 VVhat Order they uſe in procee<g ref="char:EOLhyphen"/>ding.</item>
+                           <pb n="53" facs="tcp:170020:28"/>
+                           <item>5 VVhat Authority in concluding.</item>
+                           <item>6 By what meanes.
+<list>
+                                 <item>1 Their power is drawne to Act in performing an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap> thing.</item>
+                                 <item>2 Their power is reſtrained from doing any thing.</item>
+                              </list>
+                           </item>
+                        </list>
+                        <p n="2">2 Their Ordinary Counſells for ordi<g ref="char:EOLhyphen"/>nary Occurrences.</p>
+                        <p>VVhere in we are to conſider.</p>
+                        <list>
+                           <item>1 Their Authority.</item>
+                           <item>2 Their Inclin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>tions to peace in VVarre.</item>
+                           <item>3 Their deſires of honor or wealth.</item>
+                           <item>4 The power of every particular.
+<list>
+                                 <item>1 In reſpect of the ſufficiency and eminency of his parts.</item>
+                                 <item>2 In reſpect of his ſpeciall favour and grace in the ſtate.</item>
+                              </list>
+                           </item>
+                        </list>
+                        <p>I told you before, that Oligarchyes conſtrained the rich men to be preſent at their great Aſſemblyes, on paine of penal<g ref="char:EOLhyphen"/>ties.</p>
+                        <p>
+                           <hi>Democratyes,</hi> ſometimes by rewards, invited the meaner ſort at their generall Aſſemblies, to make their preſence the greater, and that they ſhould not altoge<g ref="char:EOLhyphen"/>ther looſe their private profit <gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> which is
+<pb n="54" facs="tcp:170020:29"/> moſt regarded by the multitude, by omit<g ref="char:EOLhyphen"/>ting their private affaires and following of publique.</p>
+                     </item>
+                     <label>EXERCITIA of body.</label>
+                     <item>
+                        <p>VVhether for health only.</p>
+                        <p>VVhether for ſtrength only.</p>
+                        <p>VVhether for pleaſure only.</p>
+                        <p>VVhether and how farre they all be mixt. Vſe and cuſtome, breeds delight in any exerciſe, The Romans ſo practiſed themſelves with Armes; that they car<g ref="char:EOLhyphen"/>ried them with as much eaſe as their parts; hence came that ſaying.</p>
+                        <p>Arma militis membra ſunt.</p>
+                        <p>2 Exerciſe of mind.</p>
+                        <p>VVhether te contemplation eſpecially, as the Indian Gymnoſophiſts, and the Athenians, which were great diſcourſers, whether to action eſ<g ref="char:EOLhyphen"/>pecially, which is of moſt uſe in aci<g ref="char:EOLhyphen"/>vill life, which is active not con<g ref="char:EOLhyphen"/>templative: As the Lacedemoni<g ref="char:EOLhyphen"/>ans, who taught their Children, <hi>plurimum facere &amp; minimum loqui.</hi>
+                        </p>
+                        <p>3 VVhat kind of Exerciſes. Are commanded by Law. Are permitted only. Are directly forbidden.</p>
+                        <pb n="55" facs="tcp:170020:29"/>
+                        <p>As concerning Armes, I have already given you my thoughts of the ſame.</p>
+                        <p>But you may obſerve.</p>
+                        <p n="1">1 That Monarchicall ſtates have uſed to traine, and diſcipline all, in the exer<g ref="char:EOLhyphen"/>ciſe of Armes. As in <hi>England</hi> all by an Edict to bear Armes that are up wards of ſeaventeen yeares of Age, and under threeſcore, except Schollers.</p>
+                        <p n="2">2 Ariſtocraticall States, enforced only their Nobles to bring up their Children in feates of Armes, &amp; military diſcipline.</p>
+                        <p n="3">3. Oligarchicall States, keep their Armes, and the uſe and practiſe of them only, amongſt their greateſt men and their followers, ſo doth the Muſcovite &amp; Turk at this day.</p>
+                        <p n="4">4 Democraticall or popular States, have accuſtomed to bring up all ſorts of their people to Martiall feats; and not only permitting, but enjoyning all at a certaine age to learne and practiſe them<g ref="char:EOLhyphen"/>ſelves to warlicke exerciſes. As the anti<g ref="char:EOLhyphen"/>ent Romans at ſeaventeene yeares of Age, the Suiffers at this day ſooner.</p>
+                     </item>
+                  </list>
+               </p>
+            </sp>
+         </div>
+         <div type="declaration">
+            <pb facs="tcp:170020:30"/>
+            <head>An Act declaring and Conſtitu<g ref="char:EOLhyphen"/>ting the People of <hi>England</hi> to be a Common-wealth and Free-State.</head>
+            <p>Be it Declared and Enacted by this preſent PARLIAMENT, and by the authority of the ſame, That the People of ENGLAND, and of all the Dominions and Territories thereunto be<g ref="char:EOLhyphen"/>longing, are and ſhall be, and are hereby Conſtituted, Made, Eſtabliſh<g ref="char:EOLhyphen"/>ed and Confirmed, to be a Common<g ref="char:EOLhyphen"/>wealth and Free-State: And ſhall from henceforth be Governed as a Common<g ref="char:EOLhyphen"/>wealth and Free-State, by the ſupreme Authority of this Nation, The Repre<g ref="char:EOLhyphen"/>ſentatives of the People in Parliament, and by ſuch as they ſhall appoint and con<g ref="char:EOLhyphen"/>ſtitute as Officers and Miniſters under them for the good of the People, and that without any King or Houſe of Lords.</p>
+            <div type="order_to_publish">
+               <opener>
+                  <dateline>
+                     <date>Die Sabbathi, 19. Maii, 1649.</date>
+                  </dateline>
+               </opener>
+               <p>ORdered by the Commons aſſembled in Parliament, that this Act be forthwith Printed and Publiſhed.</p>
+               <closer>
+                  <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:170020:30"/>
+            <head>POSTSCRIPT</head>
+            <opener>
+               <salute>Gentle READER,</salute>
+            </opener>
+            <p>HAving now given you a briefe and cleane diſcovery of the Govern<g ref="char:EOLhyphen"/>ment of ſeverall Nations, Kingdomes. and Common-wealths in the World which I have taken paines to Collect from Choice Authors, of divers Languages, that thou maieſt the better Iudge of the Nature of our preſent New Eſtabliſhed Common-wealth, as touching the Ex<g ref="char:EOLhyphen"/>elency thereof, and Encouragement to a willing Subjection thereunto, Take Mr. LILLIES expreſſions in his concluſion of the Epiſtle to his Predictions for 1650. in theſe words, to every true Engliſh man, I hartily implore them, as one man to unite their hearts, their Prayers, their Forces, and Purſes, unanimonſly, for defence of this Common-wealth now eſtabliſhed; For without it as at preſent,
+<pb facs="tcp:170020:31"/> our Condition ſtands, our lives and for<g ref="char:EOLhyphen"/>tunes will be ſubject to all the inconve<g ref="char:EOLhyphen"/>niences, a wofull Nation can expect from devouring Enemies: Conforming unto, and aſſiſting this Authority; We ſhall have the better of all Nations, wee ſhall by degrees ariſe to the moſt accom<g ref="char:EOLhyphen"/>pliſhed Government, that ever was vi<g ref="char:EOLhyphen"/>ſible ſince the Creation; and when the Commonalty of ENGLAND, viz. the Yeomanry, after ſome yeares are fitted for the work intended, it ſhall not diſ<g ref="char:EOLhyphen"/>pleaſe them, that they have with pati<g ref="char:EOLhyphen"/>ence acted ſo long a time without any vi<g ref="char:EOLhyphen"/>ſible Frutes of their Labours, Sith then the Sole Dominion and power ſhall reſt in themſelves, after which univerſall peace and never more any Warres ſhall follow in ENGLAND, untill the day of the diſſolution of this earthly Fabrick.</p>
+            <p>In the next place, I ſhall only put you in mind of the New Engagement, to be taken generally throughout the Nation, in regard it is of ſpeciall concernment to all. The expreſſe words of it (are theſe) as it is Ordered by the Parliament, viz. I DO DECLARE AND PRO<g ref="char:EOLhyphen"/>MISE,
+<pb facs="tcp:170020:31"/> THAT I WILL BE TRVE AND FAITHFVLL TO THE COMMON-WEALTH OF ENG<g ref="char:EOLhyphen"/>LAND AS THE SAME NOW IS ESTABLISHED, WITHOVT A KING OR HOVSE OF LORDS.</p>
+            <p>For ſuch as make any doubt or ſcruple of taking this Engagement; I referre them to Mr. IOHN DVRYES Book, lately publiſhed, called Conſiderations, concerning the preſent Engagement, whe<g ref="char:EOLhyphen"/>ther it may lawfully be entred into, yea, or no, they are ſould at the Star, under St. PETERS Church in Corn-hill, or in Popes-head Ally; Licenſed by Maſter IOSEPH CARYLL.</p>
+            <p>In my apprehenſion, he removeth all the ſtumbling blocks, and anſwereth all the Obejctions that can be made a<g ref="char:EOLhyphen"/>gainſt the taking of it, which may ſatiſ<g ref="char:EOLhyphen"/>fie all ſuch as ſhut not their Eyes againſt the light.</p>
+            <p>The three Chiefe Objections are theſe, viz.
+<list>
+                  <item>1. OB. That the Oath of Allegiance, and the Nationall. Covenant are ſtill binding and Contradictory to this preſent Engagement.</item>
+                  <pb facs="tcp:170020:32"/>
+                  <item>2. OB. That the preſent power by which the Engagement is tende<g ref="char:EOLhyphen"/>red, is very doubtfull as a power, unlawfully uſurped, to which u<g ref="char:EOLhyphen"/>ſurpation you think you will be acceſſary, if you take the en<g ref="char:EOLhyphen"/>gagement.</item>
+                  <item>3. OB. That the Conſequence of the Engagement ſeems to tend to an oppoſition againſt the Lawfull H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir of the Crowne, and the right conſtitution of the Parlia<g ref="char:EOLhyphen"/>ments, whereunto you are prein<g ref="char:EOLhyphen"/>gaged, and from which you cannot recede.</item>
+               </list> All which Ob<g ref="char:EOLhyphen"/>jections, are learnedly and fully anſwered by Mr. DVRY which hath ſaved me that Labour, and expence of time. </p>
+            <closer>
+               <salute>VALE.</salute>
+            </closer>
+            <pb facs="tcp:170020:32"/>
+         </div>
+      </back>
+   </text>
+</TEI>
